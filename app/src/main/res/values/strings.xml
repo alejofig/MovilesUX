@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- android_small___1 strings -->
+
+	<string name="app_name">Page 5</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="iniciar_sesi_n_string">Iniciar Sesin</string>
+	<string name="iniciar_sesi_n_ek1_string">Iniciar Sesin</string>
+	<string name="registrarse_string">Registrarse</string>
+	<string name="registrarse_ek1_string">Registrarse</string>
+	<string name="registrarse_ek2_string">Registrarse</string>
+    <string name="logo">Logo</string>
+	<string name="correo_electronico">Correo electrónico</string>
+	<string name="password">Contraseña</string>
+	<string name="login">Iniciar sesión</string>
+	<string name="forgot_password">Olvidé contraseña</string>
+	<string name="register">Registrarse</string>
+	<string name="login2">Iniciar sesión</string>
+	<string name="register2">Registrarse</string>
+</resources>
